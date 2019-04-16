@@ -21,22 +21,23 @@ tools.
 
 The installation process is fairly simple once the prerequisite tools have
 been acquired. The first step is to generate a configure script and run it.
-
+```
 $ ./bootstrap.sh
 $ ./configure
 ```
-The next step is to build and install the software using make,
 
+The next step is to build and install the software using make.
+```
 $ make
 $ make install
 ```
 ## Running the program 
-
+```
 // username: admin 
 // password: 12345 
 
 $ ./customer
-
+```
 ## Deployment
 
 In order to get customer running with your username, password, and separate
