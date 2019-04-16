@@ -1,5 +1,4 @@
 # Customer Agenda
-
 :star: Star me on GitHub — it helps!
 
 This project is a implementation of a customer agenda in ANSI C
