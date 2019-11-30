@@ -48,7 +48,7 @@ file make sure to follow the pattern in credentials.txt
 
 ## Author
 
-* **Javier Montenegro** - [javiermontenegro](https://github.com/javiermontenegro)
+* **Javier Montenegro** - [javiermontenegro](https://javiermontenegro.github.io/)
 
 ## License
 
